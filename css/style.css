@@ -1,0 +1,91 @@
+
+.photo {
+  padding-top: 30px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  color: #48304d;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #48304d;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e637bf;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-color: #84d93b;
+  border-width: 5px;
+  width: 60%;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.skill-row2{
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.skill-row3{
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.skill-row4{
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #84d93b;
+}
+
+.vh {
+  color: #e637bf;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  position: relative;
+  text-align: center;
+  color: #48304d;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
